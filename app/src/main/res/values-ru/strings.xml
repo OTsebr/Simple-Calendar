@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Simple Calendar </string>
+    <string name = "app_launcher_name"> Календар </string>
+    <string name = "change_view"> Відображення </string>
+    <string name = "daily_view"> На день </string>
+    <string name = "weekly_view"> На тиждень </string>
+    <string name = "monthly_view"> На місяць </string>
+    <string name = "yearly_view"> На рік </string>
+    <string name = "simple_event_list"> Простий список подій </string>
+    <string name = "no_upcoming_events"> Схоже, у вас немає майбутніх подій. </string>
+    <string name = "add_some_events"> Ви можете їх додати, натиснувши на кнопку з плюсом внизу. </string>
+    <string name = "go_to_today"> Сьогодні </string>
+
+    <!-- Widget titles -->
+    <string name = "widget_monthly"> Календар на місяць </string>
+    <string name = "widget_list"> Календар подій </string>
+
+    <!-- Event -->
+    <string name = "event"> Подія </string>
+    <string name = "edit_event"> Редагувати подія </string>
+    <string name = "new_event"> Новий запис </string>
+    <string name = "title_empty"> Заголовок не може бути порожнім </string>
+    <string name = "end_before_start"> Подія не може завершуватися раніше, ніж починається </string>
+    <string name = "event_added"> Подія успішно додано </string>
+    <string name = "event_updated"> Подія успішно оновлено </string>
+    <string name = "filter_events_by_type"> Фільтрувати події за типом </string>
+    <string name = "please_fill_location"> Будь ласка, введіть місце, яке буде показано на карті </string>
+    <!-- Event Repetition -->
+    <string name = "repetition"> Повторювати </string>
+    <string name = "no_repetition"> Без повторення </string>
+    <string name = "daily"> Щодня </string>
+    <string name = "weekly"> Щотижня </string>
+    <string name = "monthly"> Щомісяця </string>
+    <string name = "yearly"> Щорічно </string>
+    <string name = "weeks_raw"> тижнів </string>
+    <string name = "months_raw"> місяців </string>
+    <string name = "years_raw"> років </string>
+    <string name = "repeat_till"> Повторювати до </string>
+    <string name = "forever"> Нескінченно </string>
+    <string name = "event_is_repeatable"> Ця подія може повторюватися </string>
+    <string name = "selection_contains_repetition"> В обраному є повторювані події </string>
+    <string name = "delete_one_only"> Видалити тільки вбрання </string>
+    <string name = "delete_all_occurrences"> Видалити всі пов`язані </string>
+    <string name = "update_one_only"> Оновити тільки вбрання </string>
+    <string name = "update_all_occurrences"> Оновити всі пов`язані </string>
+    <string name = "repeat_till_date"> Повторювати до дати </string>
+    <string name = "repeat_x_times"> Повторювати x раз </string>
+    <string name = "repeat_forever"> Повторювати нескінченно </string>
+    <string name = "times"> раз </string>
+    <string name = "repeat"> Повторювати </string>
+    <string name = "repeat_on"> Повторювати по </string>
+    <string name = "every_day"> Кожен день </string>
+    <string name = "selected_days"> У певні дні </string>
+    <string name = "the_same_day"> Цей же день </string>
+    <string name = "the_last_day"> Останній день </string>
+    <string name = "repeat_on_the_same_day"> Повторювати в цей же день кожного місяця </string>
+    <string name = "repeat_on_the_last_day"> Повторювати в останній день місяця </string>
+    <string name = "repeat_every_m"> Повторювати кожен </string>
+    <string name = "every_m"> Кожен </string>
+    <string name = "first_m"> перший </string>
+    <string name = "second_m"> другий </string>
+    <string name = "third_m"> третій </string>
+    <string name = "fourth_m"> четвертий </string>
+    <string name = "last_m"> Останній </string>
+
+    <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
+    <!-- used in repetition, like "Every first Sunday" -->
+    <string name = "repeat_every_f"> Повторювати кожен </string>
+    <string name = "every_f"> Кожен </string>
+    <string name = "first_f"> перший </string>
+    <string name = "second_f"> другий </string>
+    <string name = "third_f"> третій </string>
+    <string name = "fourth_f"> четвертий </string>
+    <string name = "last_f"> Останній </string>
+
+    <!-- Birthdays -->
+    <string name = "birthdays"> Дні народження </string>
+    <string name = "add_birthdays"> Додати дні народження контактів </string>
+    <string name = "no_birthdays"> Дні народження не знайдені </string>
+    <string name = "birthdays_added"> Дні народження успішно додані </string>
+
+    <!-- Anniversaries -->
+    <string name = "anniversaries"> Річниці </string>
+    <string name = "add_anniversaries"> Додати річниці контактів </string>
+    <string name = "no_anniversaries"> Річниці не знайдені </string>
+    <string name = "anniversaries_added"> Річниці додані успішно </string>
+
+    <!-- Event Reminders -->
+    <string name = "reminder"> Нагадування </string>
+    <string name = "before"> до події </string>
+    <string name = "add_another_reminder"> Додати ще одне нагадування </string>
+    <string name = "event_reminders"> Нагадування про події </string>
+
+    <!-- Export / Import -->
+    <string name = "import_events"> Імпорт подій </string>
+    <string name = "export_events"> Експорт подій </string>
+    <string name = "import_events_from_ics"> Імпорт подій з файлу .ics </string>
+    <string name = "export_events_to_ics"> Експорт подій в файл .ics </string>
+    <string name = "default_event_type"> Тип події за замовчуванням </string>
+    <string name = "export_past_events_too"> Версія для друку Експортувати минулі події </string>
+    <string name = "include_event_types"> Включати типи подій </string>
+    <string name = "filename_without_ics"> Файл (без .ics) </string>
+
+    <!-- Event details -->
+    <string name = "title"> Заголовок </string>
+    <string name = "location"> Місце </string>
+    <string name = "description"> Опис </string>
+    <string name = "all_day"> Весь день </string>
+
+    <!-- Weekly view -->
+    <string name = "week"> Тиждень </string>
+
+    <!-- Event types -->
+    <string name = "event_types"> Типи подій </string>
+    <string name = "add_new_type"> Додати новий тип </string>
+    <string name = "edit_type"> Редагувати тип </string>
+    <string name = "type_already_exists"> Тип з такою назвою вже існує </string>
+    <string name = "color"> Колір </string>
+    <string name = "regular_event"> Звичайна подія </string>
+    <string name = "cannot_delete_default_type"> Тип подій за замовчуванням не може бути знищено </string>
+    <string name = "select_event_type"> Вибрати тип події </string>
+    <string name = "move_events_into_default"> Встановити порушених подій тип за замовчуванням </string>
+    <string name = "remove_affected_events"> Назавжди видалити порушені події </string>
+    <string name = "unsync_caldav_calendar"> Щоб видалити календар CalDAV, потрібно відключити синхронізацію з ним </string>
+
+    <!-- Holidays -->
+    <string name = "holidays"> Свята </string>
+    <string name = "add_holidays"> Додати свята </string>
+    <string name = "national_holidays"> Національні свята </string>
+    <string name = "religious_holidays"> Релігійні свята </string>
+    <string name = "holidays_imported_successfully"> Holidays have been successfully imported into the \ "Holidays \" event type </string>
+    <string name = "importing_some_holidays_failed"> Неможливо імпортувати деякі події </string>
+    <string name = "importing_holidays_failed"> Неможливо імпортувати свята </string>
+
+    <!-- Settings -->
+    <string name = "manage_event_types"> Управління типами подій </string>
+    <string name = "start_day_at"> Початок дня (тиждень) </string>
+    <string name = "end_day_at"> Закінчення дня (тиждень) </string>
+    <string name = "week_numbers"> Відображати номера тижнів </string>
+    <string name = "vibrate"> Вібрація при нагадуванні </string>
+    <string name = "reminder_sound"> ​​Звук нагадування </string>
+    <string name = "no_ringtone_picker"> не знайдено додаток для вибору рингтон </string>
+    <string name = "no_ringtone_selected"> Ні </string>
+    <string name = "day_end_before_start"> Кінець дня не може бути раніше початку </string>
+    <string name = "caldav_sync"> Синхронізація по CalDAV </string>
+    <string name = "event_lists"> Списки подій </string>
+    <string name = "display_past_events"> Показувати минулі події </string>
+    <string name = "replace_description_with_location"> Замінити опис події місцем розташування </string>
+    <string name = "delete_all_events"> Видалити всі події </string>
+    <string name = "delete_all_events_confirmation"> Ви дійсно хочете видалити всі події? Це не торкнеться ваші типи подій і інші настройки. </string>
+
+    <!-- CalDAV sync -->
+    <string name = "caldav"> CalDAV </string>
+    <string name = "select_caldav_calendars"> Виберіть календарі для синхронізації </string>
+    <string name = "manage_synced_calendars"> Управління календарями для синхронізації </string>
+    <string name = "store_locally_only"> Зберігати тільки локально </string>
+    <string name = "refresh_caldav_calendars"> Оновити календарі з CalDAV </string>
+    <string name = "refreshing"> Оновлення … </string>
+    <string name = "refreshing_complete"> Оновлення завершено </string>
+    <string name = "editing_calendar_failed"> Неможливо змінити календар </string>
+    <string name = "syncing"> Синхронізація … </string>
+    <string name = "synchronization_completed"> Синхронізація завершена </string>
+
+    <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
+    <!-- used in repetition, like "Every last Sunday" -->
+    <string name = "monday_alt"> П`ятниця </string>
+    <string name = "tuesday_alt"> Неділя </string>
+    <string name = "wednesday_alt"> П`ятниця </string>
+    <string name = "thursday_alt"> Неділя </string>
+    <string name = "friday_alt"> Середа </string>
+    <string name = "saturday_alt"> Неділя </string>
+    <string name = "sunday_alt"> Субота </string>
+
+    <!-- List widget config example events -->
+    <string name = "sample_title_1"> Тренування </string>
+    <string name = "sample_description_1"> День ніг </string>
+    <string name = "sample_title_2"> Зустріч з Женею </string>
+    <string name = "sample_description_2"> У метро \ "Невський проспект \" </string>
+    <string name = "sample_title_3"> Бібліотека </string>
+    <string name = "sample_title_4"> Вечеря з Машею </string>
+    <string name = "sample_description_4"> У КЕТ на караванної </string>
+    <string name = "sample_title_5"> Час для кави </string>
+
+    <!-- FAQ -->
+    <string name = "faq_1_title"> Як видалити свята, імпортовані за допомогою кнопки \ "Додати свята \"? </string>
+    <string name = "faq_1_text"> Свята, створені таким чином, вставляються в новий тип події, званий \ "Свята \". Можна перейти в \ "Налаштування \" -> \ "Управління типами подій \",
+        потім тривале натискання на даному типі події і його видалення натисканням на \ "кошик \". </string>
+    <string name = "faq_2_title"> Чи можна синхронізувати події за допомогою Календаря Google або інших служб, що підтримують CalDAV? </string>
+    <string name = "faq_2_text"> Так, просто включите \ "cинхронизация CalDAV \" в налаштуваннях програми і виберіть календарі, які потрібно синхронізувати. Проте, вам буде потрібно стороннє додаток, обробляє синхронізацію пристрою із сервером.
+        Якщо ви хочете синхронізувати Календар Google, то їх офіційне додаток виконає цю роботу. Для інших календарів вам знадобиться сторонній інструмент синхронізації, наприклад DAVdroid. </string>
+    <!-- strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name = "app_short_description"> Простий календар з подіями і настроюється віджетом. Без реклами. </string>
+    <string name = "app_long_description">
+        Оффлайн календарь, без каких-либо интегрированных сторонних функций. Можно создавать повторяющиеся события и устанавливать напоминания. Есть возможность отображения номеров недель.
+        У приложения есть виджет 4x4 с изменяемым размером, у которого можно изменить цвет текста, цвет и прозрачность фона.
+        Это приложение не показывает рекламу и не запрашивает лишние разрешения. У него полностью открытый исходный код и настраиваемые цвета оформления.
+        Разрешение для доступа к памяти требуется только для экспорта или импорта событий из файлов .ics.
+        Разрешение на чтение контактов требуется только при импорте дней рождения.
+        Это приложение является лишь частью крупной серии приложений. Вы можете найти остальные на http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
